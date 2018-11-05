@@ -1,6 +1,6 @@
 {
-  "name": "geckodriver",
-  "version": "1.12.2",
+  "name": "@buk/geckodriver",
+  "version": "0.0.1",
   "description": "Downloader for https://github.com/mozilla/geckodriver/releases",
   "scripts": {
     "test": "ava",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladikoff/node-geckodriver.git"
+    "url": "https://github.com/Yunfeng/node-geckodriver.git"
   },
   "author": {
-    "name": "vladikoff",
-    "email": "vlad.filippov@gmail.com",
-    "url": "http://vf.io"
+    "name": "yunfeng",
+    "email": "yfdai@buk.cn",
+    "url": "http://buk.cn"
   },
   "main": "lib/geckodriver",
   "bin": {
@@ -21,9 +21,9 @@
   },
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/vladikoff/node-geckodriver/issues"
+    "url": "https://github.com/Yunfeng/node-geckodriver/issues"
   },
-  "homepage": "https://github.com/vladikoff/node-geckodriver#readme",
+  "homepage": "https://github.com/Yunfeng/node-geckodriver#readme",
   "dependencies": {
     "adm-zip": "0.4.11",
     "bluebird": "3.4.6",
