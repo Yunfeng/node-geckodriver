@@ -1,5 +1,5 @@
 {
-  "name": "buk/geckodriver",
+  "name": "buk-geckodriver",
   "version": "0.0.1",
   "description": "Downloader for https://github.com/mozilla/geckodriver/releases",
   "scripts": {
